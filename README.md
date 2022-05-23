@@ -89,12 +89,12 @@ npm start
 
 ## `GANTI NOMOR OWNER`
 
- global.DeveloperMode = 'false' //Buat Mode True False Moderator
- global.linkGC = [''] // ganti jadi group lu
- global.owner = ['6288287810316', '6282186172016' ,'6288272489919','','', '', ''] // Put your number here
- global.mods = ['6288287810316', '6282186172016' ,'6288272489919'] // Want some help?
- global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
- global.APIs = { // API Prefix
+global.DeveloperMode = 'false' //Buat Mode True False Moderator
+global.linkGC = [''] // ganti jadi group lu
+global.owner = ['6288287810316', '6282186172016' ,'6288272489919','','', '', ''] // Put your number here
+global.mods = ['6288287810316', '6282186172016' ,'6288272489919'] // Want some help?
+global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
+global.APIs = { // API Prefix
 
 ## ```DONATE```
 
