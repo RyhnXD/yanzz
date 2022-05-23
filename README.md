@@ -17,6 +17,9 @@
 
 -------
 
+## `Ambil Session?`
+[`Click Here`](replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
+
 ## FOR DEPLOY HEROKU USER
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-Ammar/REST-FREE)
@@ -85,7 +88,7 @@ npm start
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeone-ofc/Alphab0t/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Ynzz-Bot/Yanzz-V4/blob/master/Ynz.json#L1)
 
 ## ```DONATE```
 
