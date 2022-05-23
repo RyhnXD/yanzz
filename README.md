@@ -16,10 +16,6 @@
 <a href="https://github.com/Kannachann/kanna-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kannachann/kanna-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
 -------
-
-## `Ambil Session?`
-[`Click Here`](replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
-
 ## FOR DEPLOY HEROKU USER
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-Ammar/REST-FREE)
