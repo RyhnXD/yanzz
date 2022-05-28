@@ -35,8 +35,8 @@ function pickRandom(list) {
 
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
 global.linkGC = [''] // ganti jadi group lu
-global.owner = ['6288287810316', '6282186172016' ,'6288272489919','','', '', ''] // Put your number here
-global.mods = ['6288287810316', '6282186172016' ,'6288272489919'] // Want some help?
+global.owner = ['62895627514070', '6281395981439' ,'6288272489919','','', '', ''] // Put your number here
+global.mods = ['62895627514070', '62895627514070' ,'6288272489919'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -73,12 +73,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Ynz вσт.'
-global.author = '۰ ⸼'
+global.packname = 'ѕнιησмιуα вσт.'
+global.author = '62895627514070'
 
 // silakan di ganti klo mau
-global.botwm = `🤖 Ynz вσт`//UBAH JADI NAMAMU
-global.wm = `Ynz вσт`
+global.botwm = `ѕнιησмιуα вσтz`//UBAH JADI NAMAMU
+global.wm = `ѕнιησмιуα вσтz`
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
