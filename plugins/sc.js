@@ -20,13 +20,7 @@ const ftrol = {
     }
 let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=Source+code'
 let info = `◪ 📮 *SCRIPT BOT*
-│ *Script :* 
-│ ╰ https://github.com/Ynzz-Bot/Yanzz-V4
-│ *Base :* 
-│ ╰ https://github.com/bochilgaming/games-wabot
-│   https://github.com/kannachann/kanna-wabot
-│ *RestApi :* https://hardianto.xyz
-╰──────────═┅═──────────
+Awokaowkawok🗿
 📍 *N o t e :* 
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
 • Jangan Lupa kasih star & kasih credit
